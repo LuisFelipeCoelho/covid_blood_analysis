@@ -1,4 +1,4 @@
-# covid_blood_analysis
+# Covid Blood Analysis
 Simple ML analysis to predict if a patient is infected with COVID-19, given a set of test results and additional clinical data.
 For educational purposes only.
 
