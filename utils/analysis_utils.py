@@ -1,4 +1,3 @@
-
 def impute_with_median (df):
     """Iterate through columns of Pandas DataFrame.
     Where NaNs exist replace with median"""
